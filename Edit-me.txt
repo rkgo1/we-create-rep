@@ -1,3 +1,5 @@
 <Write the details in this file >
 
-<Write the details in this file> = <edited by Jabu>
+<edited by Jabu>
+-Jabu Msiza
+-developerMsiza
